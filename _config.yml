@@ -4,8 +4,8 @@
 
 title: what Lab # the website title (if blank, full name will be used instead)
 first_name: what
-middle_name: L
-last_name: ab
+middle_name: 
+last_name: Lab
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -158,7 +158,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
