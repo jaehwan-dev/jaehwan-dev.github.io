@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: * indicates team teaching.
+description: &ast; indicates team teaching.
 nav: true
 nav_order: 6
 ---
