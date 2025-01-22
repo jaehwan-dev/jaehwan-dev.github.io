@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Business. `Chungnam National University`
+subtitle: School of Business. <a href="https://plus.cnu.ac.kr/html/en/">Chungnam National University</a>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to `what Lab`!
+Welcome to `what Lab`.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
