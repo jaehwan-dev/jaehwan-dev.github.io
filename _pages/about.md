@@ -20,7 +20,7 @@ At `what Lab`, we are dedicated to solving diverse and `meaningful problems` in 
 
 `what Lab` thrives on `curiosity` and `creativity`. We believe that the best solutions emerge when we question assumptions, explore new perspectives, and combine knowledge from different fields. Our team is passionate about turning data into actionable outcomes, whether it’s optimizing systems, improving decision-making, or uncovering hidden opportunities.
 
-We work on a wide range of issues, from societal challenges to business optimization, always keeping the end goal of positive change in mind. By grounding our work in data and collaborating across disciplines, we ensure that our solutions are not only innovative but also practical and impactful.
+We work on a wide range of issues, from societal challenges to business optimization, always keeping the end goal of `positive change` in mind. By grounding our work in data and collaborating across disciplines, we ensure that our solutions are not only innovative but also practical and impactful.
 
 If you share our passion for solving real-world problems and enjoy exploring uncharted territories of knowledge, we’d love to hear from you. At `what Lab`, creativity meets purpose, and data meets action. Let’s make a difference together. <a href="mailto:jaehwan@cnu.ac.kr"><i class="fa-regular fa-envelope"></i></a>
 
