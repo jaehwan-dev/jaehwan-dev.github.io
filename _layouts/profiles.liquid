@@ -6,9 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         {% if profile.first_item %}
-          <div class="projects">
-            <h2>{{ profile.profile_group }}</h2>
-          </div>
+          <h2 class="profile_group">{{ profile.profile_group }}</h2>
         {% endif %}
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
