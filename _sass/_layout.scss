@@ -52,6 +52,15 @@ body.sticky-bottom-footer {
   color: #162732 !important;
 }
 
+.post h2.profile_group {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: .5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
