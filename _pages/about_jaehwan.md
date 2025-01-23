@@ -11,9 +11,13 @@
 
 <p class="font-weight-bold mb-1">Research Interest</p>
 <ul class="list-group list-group-horizontal list-unstyled">
-  <li><i class="fa-regular fa-hashtag text-muted"></i> Keyword 1</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> new technology</li>
   <p class="px-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> Keyword 2</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> artificial intelligence</li>
   <p class="px-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> Keyword 3</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> application of ai</li>
+  <p class="px-1">•</p>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> generative ai</li>
+  <p class="px-1">•</p>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> feature generation</li>
 </ul>
