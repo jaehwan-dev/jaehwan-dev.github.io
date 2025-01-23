@@ -13,8 +13,12 @@ profiles:
     image: jaehwan-lee.png
     content: about_jaehwan.md
     image_circular: true # crops the image to make it circular
+    first_item: true
+    profile_group: professor
   - align: left
-    image: prof_pic.jpg
+    image: jaehwan-lee.png
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
+    first_item: true
+    profile_group: undergraduate intern
 ---
