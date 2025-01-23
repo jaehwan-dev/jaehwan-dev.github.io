@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         {% if profile.first_item %}
-          <h2 class="profile_group">{{ profile.profile_group }}</h2>
+          <h2 class="profile_group mb-5">{{ profile.profile_group }}</h2>
         {% endif %}
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
@@ -24,7 +24,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix mb-5">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
