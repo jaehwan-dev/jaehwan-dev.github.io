@@ -13,7 +13,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to `what Lab`.
 
-<img src="/assets/img/banner.png" class="img-fluid" />
+<img src="/assets/img/banner-black.png" class="img-fluid" />
 <figcaption class="text-right text-muted small mb-3">Image by Luke Webb on pexels.com</figcaption>
 
 At `what Lab`, we are dedicated to solving diverse and `meaningful problems` in the world using data-driven approaches. Our mission is to tackle challenges that span across various domains, leveraging the power of data to uncover insights and drive impactful solutions. While we embrace cutting-edge technologies like machine learning, our primary focus remains on understanding and addressing the problems themselves.
