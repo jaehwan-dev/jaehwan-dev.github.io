@@ -21,4 +21,10 @@ profiles:
     image_circular: true # crops the image to make it circular
     first_item: true
     profile_group: undergraduate intern
+  - align: left
+    image: jaehwan-lee.png
+    content: about_einstein.md
+    image_circular: true # crops the image to make it circular
+    first_item: false
+    profile_group: undergraduate intern
 ---
