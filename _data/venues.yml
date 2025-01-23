@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"Curr Psychol":
+  url: https://link.springer.com/journal/12144
+  color: "#01324b"
+
+"Displays":
+  url: https://www.sciencedirect.com/journal/displays
+  color: "#535ba8"
+
+"APJIS":
+  url: https://www.apjis.or.kr/
+  color: "#009f36"
