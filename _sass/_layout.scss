@@ -38,20 +38,6 @@ body.sticky-bottom-footer {
   }
 }
 
-.anta-regular {
-  font-family: "Anta", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.whatlab-color {
-  color: #ff4214 !important;
-}
-
-.whatlab-color:hover {
-  color: #162732 !important;
-}
-
 .post h2.profile_group {
   color: var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
@@ -59,6 +45,29 @@ body.sticky-bottom-footer {
   margin-top: 2rem;
   margin-bottom: 1rem;
   text-align: right;
+}
+
+// Google Fonts
+.anta-regular {
+  font-family: "Anta", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.noto-sans-kr {
+  font-family: "Noto Sans KR", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Colors
+.whatlab-color {
+  color: #ff4214 !important;
+}
+
+.whatlab-color:hover {
+  color: #162732 !important;
 }
 
 // TODO: redefine content layout.
