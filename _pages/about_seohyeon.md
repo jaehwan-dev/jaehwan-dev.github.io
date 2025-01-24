@@ -9,13 +9,11 @@
 
 <p class="font-weight-bold mb-1">Research Interest</p>
 <ul class="list-group list-group-horizontal list-unstyled text-nowrap flex-wrap">
-  <li><i class="fa-regular fa-hashtag text-muted"></i> new technology</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> text mining</li>
   <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> artificial intelligence</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> exploratory data analysis</li>
   <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> application of ai</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> social research</li>
   <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> generative ai</li>
-  <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> feature generation</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> business analytics</li>
 </ul>
