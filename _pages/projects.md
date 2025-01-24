@@ -55,7 +55,7 @@ projects:
         <li class="list-group-item">
           <div class="row">
             <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-              <span class="badge font-weight-bold whatlab-bg text-uppercase align-middle" style="min-width: 75px">{{ project.date }}</span>
+              <span class="badge font-weight-bold text-uppercase align-middle project-{{ category }}" style="min-width: 75px">{{ project.date }}</span>
             </div>
             <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
               <h6 class="title font-weight-bold ml-1 ml-md-4 noto-sans-kr">{{ project.funding }}</h6>
