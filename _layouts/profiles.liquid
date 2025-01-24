@@ -8,7 +8,7 @@ layout: page
         {% if profile.first_item %}
           <h2 class="profile_group mb-5">{{ profile.profile_group }}</h2>
         {% endif %}
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+        <div class="profile float-{% if profile.align == 'left' %}left mr-4{% else %}right ml-4{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
