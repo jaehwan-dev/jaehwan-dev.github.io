@@ -9,13 +9,7 @@
 
 <p class="font-weight-bold mb-1">Research Interest</p>
 <ul class="list-group list-group-horizontal list-unstyled text-nowrap flex-wrap">
-  <li><i class="fa-regular fa-hashtag text-muted"></i> new technology</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> algorithmic portfolio optimization</li>
   <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> artificial intelligence</li>
-  <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> application of ai</li>
-  <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> generative ai</li>
-  <p class="px-1 mb-1">•</p>
-  <li><i class="fa-regular fa-hashtag text-muted"></i> feature generation</li>
+  <li><i class="fa-regular fa-hashtag text-muted"></i> time series analysis</li>
 </ul>
