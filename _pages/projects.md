@@ -11,7 +11,7 @@ horizontal: true
 projects:
   - date: 2024.6 - 2027.5
     funding: 글로벌인문사회융합연구지원사업
-    desc: 기업의 ESG 경영에 관한 연구: 환경오염과 국민건강을 중심으로
+    desc: 기업의 ESG 경영에 관한 연구-환경오염과 국민건강을 중심으로
     category: ongoing
   - date: 2024.1 - 2024.12
     funding: 환경부
