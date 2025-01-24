@@ -23,7 +23,7 @@ projects:
     category: finished
   - date: 2018.4 - 2018.6
     funding: (주)네이버
-    desc: 한국 온라인 창업 성장 리포트 : 네이버 스마트스토어 사례 분석
+    desc: 한국 온라인 창업 성장 리포트-네이버 스마트스토어 사례 분석
     category: finished
   - date: 2015.1 - 2015.8
     funding: (주)네이버
