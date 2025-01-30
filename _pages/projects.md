@@ -23,7 +23,7 @@ projects:
     funding: 네이버웹툰
     desc: 2023년 한국 창작 생태계 기여 효과
     category: finished
-    extlink: webtoonscorp.com/ko/storiesDetail?seq=32014
+    extlink: https://webtoonscorp.com/ko/storiesDetail?seq=32014
 
 vanished:
   - date: 2021.1 - 2021.9
@@ -76,10 +76,9 @@ vanished:
               <h6 class="title font-weight-bold ml-1 ml-md-4 noto-sans-kr">{{ project.funding }}</h6>
               <h6 class="ml-1 ml-md-4 noto-sans-kr" style="font-size: 0.95rem;">{{ project.desc }}
                 {% if project.extlink %}
-                  <a href="https://{{% project.extlink %}}"><i class="fa-solid fa-link ml-1"></i></a></h6>
-                {% else %}
-                  </h6>
+                  <a href="{{ project.extlink }}"><i class="fa-solid fa-link ml-1"></i></a>
                 {% endif %}
+              </h6>
             </div>
           </div>
         </li>
