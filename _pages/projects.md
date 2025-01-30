@@ -75,9 +75,6 @@ vanished:
             <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
               <h6 class="title font-weight-bold ml-1 ml-md-4 noto-sans-kr">{{ project.funding }}</h6>
               <h6 class="ml-1 ml-md-4 noto-sans-kr" style="font-size: 0.95rem;">{{ project.desc }}</h6>
-                {% if project.extlink %}
-                  <a href="{{ project.desc }}"><i class="fa-solid fa-link"></i></a>
-                {% endif %}
             </div>
           </div>
         </li>
