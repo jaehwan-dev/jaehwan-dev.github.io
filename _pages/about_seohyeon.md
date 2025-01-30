@@ -1,6 +1,6 @@
 <h4>Seohyeon Oh</h4>
 
-<i class="fa-regular fa-envelope"></i> skibb2 <i>at</i> naver.com
+<a href="mailto:%73%6B%69%62%62%32@%6E%61%76%65%72.%63%6F%6D"><i class="fa-regular fa-envelope fa-lg whatlab-color"></i></a>
 
 <p class="font-weight-bold mb-1">Education</p>
 <ul class="list-unstyled">
