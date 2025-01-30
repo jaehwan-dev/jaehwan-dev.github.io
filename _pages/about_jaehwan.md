@@ -1,6 +1,6 @@
 <h4>Jaehwan Lee</h4>
 
-<i class="fa-regular fa-envelope"></i> jaehwan <i>at</i> cnu.ac.kr
+<a href="mailto:%6A%61%65%68%77%61%6E@%63%6E%75.%61%63.%6B%72"><i class="fa-solid fa-envelope"></i></a>
 
 <p class="font-weight-bold mb-1">Education</p>
 <ul class="list-unstyled">
