@@ -76,7 +76,7 @@ vanished:
               <h6 class="title font-weight-bold ml-1 ml-md-4 noto-sans-kr">{{ project.funding }}</h6>
               <h6 class="ml-1 ml-md-4 noto-sans-kr" style="font-size: 0.95rem;">{{ project.desc }} 
                 {% if project.extlink %}
-                  <a href="{{ project.extlink }}"><i class="fa-solid fa-link"></i></a></h6>
+                  <a href="{{ project.desc }}"><i class="fa-solid fa-link"></i></a></h6>
                 {$ else %}
                   </h6>
                 {% endif %}
