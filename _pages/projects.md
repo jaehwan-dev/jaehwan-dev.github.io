@@ -19,8 +19,9 @@ projects:
     category: finished
   - date: 2024.2 - 2024.8
     funding: 네이버웹툰
-    desc: 2023년 한국 창작 생태계 기여 효과 [[link]](https://webtoonscorp.com/ko/storiesDetail?seq=32014)
+    desc: 2023년 한국 창작 생태계 기여 효과
     category: finished
+    link: https://webtoonscorp.com/ko/storiesDetail?seq=32014
 
 vanished:
   - date: 2021.1 - 2021.9
@@ -65,7 +66,7 @@ vanished:
             </div>
             <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
               <h6 class="title font-weight-bold ml-1 ml-md-4 noto-sans-kr">{{ project.funding }}</h6>
-              <h6 class="ml-1 ml-md-4 noto-sans-kr" style="font-size: 0.95rem;">{{ project.desc }}</h6>
+              <h6 class="ml-1 ml-md-4 noto-sans-kr" style="font-size: 0.95rem;">{{ project.desc }} {% if project.link %} <a href="{{ project.link }}"><i class="fa-solid fa-link"></i></a> {% endif %}</h6>
             </div>
           </div>
         </li>
