@@ -1,6 +1,6 @@
 <h4>Haklim Lee</h4>
 
-<i class="fa-regular fa-envelope"></i> hakliml22 <i>at</i> naver.com
+<a href="mailto:%68%61%6B%6C%69%6D%6C%32%32@%6E%61%76%65%72.%63%6F%6D"><i class="fa-regular fa-envelope fa-lg whatlab-color"></i></a>
 
 <p class="font-weight-bold mb-1">Education</p>
 <ul class="list-unstyled">
