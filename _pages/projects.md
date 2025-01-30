@@ -17,6 +17,12 @@ projects:
     funding: 환경부
     desc: 친환경-생분해 박테리오파지 나노구조 센서 기반 휴대용 토양오염물질 측정 IoT 디바이스 개발
     category: finished
+  - date: 2024.2 - 2024.8
+    funding: 네이버웹툰
+    desc: 2023년 한국 창작 생태계 기여 효과 [[link]](https://webtoonscorp.com/ko/storiesDetail?seq=32014)
+    category: finished
+
+vanished:
   - date: 2021.1 - 2021.9
     funding: 중소벤처기업부
     desc: 멀티 채널 데이터 기반의 점포 입지 DB구축 및 AI 기반 추천 솔루션
