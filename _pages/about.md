@@ -22,6 +22,6 @@ At `what Lab`, we are dedicated to solving diverse and `meaningful problems` in 
 
 We work on a wide range of issues, from societal challenges to business optimization, always keeping the end goal of `positive change` in mind. By grounding our work in data and collaborating across disciplines, we ensure that our solutions are not only innovative but also practical and impactful.
 
-If you share our passion for solving real-world problems and enjoy exploring uncharted territories of knowledge, we’d love to hear from you. At `what Lab`, creativity meets purpose, and data meets action. Let’s make a difference together. <a href="mailto:%6A%61%65%68%77%61%6E@%63%6E%75.%61%63.%6B%72"><i class="fa-regular fa-envelope"></i></a>
+If you share our passion for solving real-world problems and enjoy exploring uncharted territories of knowledge, we’d love to hear from you. At `what Lab`, creativity meets purpose, and data meets action. Let’s make a difference together.
 
 &nbsp;
