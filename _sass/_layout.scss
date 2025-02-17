@@ -82,11 +82,11 @@ body.sticky-bottom-footer {
   background-color: #455560 !important;
 }
 
-::-moz-selection { /* Code for Firefox */
+p::-moz-selection { /* Code for Firefox */
   background-color: #ff4214;
 }
 
-::selection {
+p::selection {
   background-color: #ff4214;
 }
 
