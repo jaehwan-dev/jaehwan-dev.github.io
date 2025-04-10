@@ -10,7 +10,7 @@
 
 "Curr Psychol":
   url: https://link.springer.com/journal/12144
-  color: "#01324b"
+  color: "#4b6490"
 
 "Displays":
   url: https://www.sciencedirect.com/journal/displays
@@ -19,3 +19,7 @@
 "APJIS":
   url: https://www.apjis.or.kr/
   color: "#009f36"
+
+"Educ Inf Technol":
+  url: https://link.springer.com/journal/10639
+  color: "#00727e"
