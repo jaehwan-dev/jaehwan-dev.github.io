@@ -1,5 +1,5 @@
-<div class="d-flex align-items-center mb-2">
-  <h4 class="mr-2 mb-0">Jaehwan Lee</h4>
+<div class="mb-2">
+  <h4 class="d-inline mr-2 mb-0">Jaehwan Lee</h4>
   <a href="mailto:%6A%61%65%68%77%61%6E@%63%6E%75.%61%63.%6B%72" title="email"><i class="fa-regular fa-envelope fa-lg whatlab-color"></i></a>
   <a href="https://scholar.google.com/citations?user=EezU3ekAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar ai-lg whatlab-color ml-1"></i></a>
 </div>
