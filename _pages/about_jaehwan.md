@@ -6,7 +6,7 @@
 
 <p class="font-weight-bold mb-1">Professional Positions</p>
 <ul class="list-unstyled">
-  <li>- Assistant Professor, <a href="https://www.cnu.ac.kr/">CNU</a> <small>(2024-current)</small></li>
+  <li>- Assistant Professor, <a href="https://www.cnu.ac.kr/">CNU</a> <small>(2024-present)</small></li>
   <li>- Assistant Professor, <a href="https://www.hallym.ac.kr/">Hallym Univ.</a> <small>(2023-2024)</small></li>
 </ul>
 
