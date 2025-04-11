@@ -1,6 +1,7 @@
-<h4>Seohyeon Oh</h4>
-
-<a href="mailto:%73%6B%69%62%62%32@%6E%61%76%65%72.%63%6F%6D"><i class="fa-regular fa-envelope fa-lg whatlab-color"></i></a>
+<div class="d-flex align-items-center mb-2">
+  <h4 class="mr-2 mb-0">Seohyeon Oh</h4>
+  <a href="mailto:%73%6B%69%62%62%32@%6E%61%76%65%72.%63%6F%6D"><i class="fa-regular fa-envelope fa-lg whatlab-color"></i></a>
+</div>
 
 <p class="font-weight-bold mb-1">Education</p>
 <ul class="list-unstyled">
