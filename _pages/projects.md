@@ -9,6 +9,11 @@ display_categories: [ongoing, finished]
 horizontal: true
 
 projects:
+  - date: 2025.5 - 2025.8
+    funding: 충남대학교 정보화본부
+    desc: CNU 생성형 인공지능 챌린지
+    category: ongoing
+    extlink: false
   - date: 2024.6 - 2027.5
     funding: 한국연구재단
     desc: 기업의 ESG 경영에 관한 연구-환경오염과 국민건강을 중심으로
