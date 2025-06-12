@@ -24,9 +24,11 @@ We work on a wide range of issues, from societal challenges to business optimiza
 
 If you share our passion for solving real-world problems and enjoy exploring uncharted territories of knowledge, we’d love to hear from you. At `what Lab`, creativity meets purpose, and data meets action. Let’s make a difference together.
 
+&nbsp;
+
 <div class="news">
   <div class="table-responsive">
-    <table class="table table-sm tableborderless">
+    <table class="table table-sm table-borderless">
       <tbody>
         <tr>
           <th scope="row" style="width: 20%">May, 2025</th>
