@@ -31,7 +31,7 @@ If you share our passion for solving real-world problems and enjoy exploring unc
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
-          <th scope="row" style="width: 20%">🎉 May, 2025</th>
+          <th scope="row" style="width: 15%">🎉 May, 2025</th>
           <td>Distinguished Paper Award, <i>International Conference on IR 4.0 and GVC (ICIG)</i>, 2025</td>
         </tr>
       </tbody>
