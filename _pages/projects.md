@@ -10,10 +10,10 @@ horizontal: true
 
 projects:
   - date: 2025.5 - 2025.8
-    funding: 충남대학교 정보화본부
-    desc: CNU 생성형 인공지능 챌린지
-    category: ongoing
-    extlink: false
+    funding: 충남대학교 정보화본부 - CNU 생성형 인공지능 챌린지
+    desc: 맞춤 OPIc 모의고사 서비스 OPIc Buddy
+    category: finished
+    extlink: https://youtu.be/jO-DUnjEasE
   - date: 2024.6 - 2027.5
     funding: 한국연구재단
     desc: 기업의 ESG 경영에 관한 연구-환경오염과 국민건강을 중심으로
