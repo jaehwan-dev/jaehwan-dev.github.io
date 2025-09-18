@@ -30,6 +30,10 @@ At `what Lab`, creativity meets purpose, and data meets action. Let’s make a d
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
+          <th scope="row" style="width: 15%">🏆 September, 2025</th>
+          <td>Grand Prize Award (대상), <i>CNU Generative AI Challenge</i>, 2025</td>
+        </tr>
+        <tr>
           <th scope="row" style="width: 15%">🎉 May, 2025</th>
           <td>Distinguished Paper Award, <i>International Conference on IR 4.0 and GVC (ICIG)</i>, 2025</td>
         </tr>
