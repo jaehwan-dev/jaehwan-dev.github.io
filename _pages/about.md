@@ -31,7 +31,7 @@ At `what Lab`, creativity meets purpose, and data meets action. Let’s make a d
       <tbody>
         <tr>
           <th scope="row" style="width: 15%">🏆 September, 2025</th>
-          <td>Grand Prize Award (대상), <i>CNU Generative AI Challenge</i>, 2025</td>
+          <td>Grand Prize (대상), <i>CNU Generative AI Challenge</i>, 2025</td>
         </tr>
         <tr>
           <th scope="row" style="width: 15%">🎉 May, 2025</th>
