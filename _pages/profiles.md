@@ -28,3 +28,32 @@ profiles:
     first_item: false
     profile_group: undergraduate intern
 ---
+
+## Tabs for something else
+
+{% tabs something-else %}
+
+{% tab something-else text %}
+
+Regular text
+
+{% endtab %}
+
+{% tab something-else quote %}
+
+> A quote
+
+{% endtab %}
+
+{% tab something-else list %}
+
+Hipster list
+
+- brunch
+- fixie
+- raybans
+- messenger bag
+
+{% endtab %}
+
+{% endtabs %}
