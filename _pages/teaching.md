@@ -40,36 +40,3 @@ nav_order: 6
   <li class="py-1"><strong>at Ewha Womans Univ.</strong> | Big Data Analysis Programming <small>(graduate)</small></li>
 </ul>
 
-<article class="post-content">
-  <div id="markdown-content">
-    ## Tabs for something else
-
-    {% tabs something-else %}
-    
-    {% tab something-else text %}
-    
-    Regular text
-    
-    {% endtab %}
-    
-    {% tab something-else quote %}
-    
-    > A quote
-    
-    {% endtab %}
-    
-    {% tab something-else list %}
-    
-    Hipster list
-    
-    - brunch
-    - fixie
-    - raybans
-    - messenger bag
-    
-    {% endtab %}
-    
-    {% endtabs %}
-  </div>
-</article>
-
