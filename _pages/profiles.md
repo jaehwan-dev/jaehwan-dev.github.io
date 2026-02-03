@@ -18,10 +18,10 @@ profiles:
   - align: left
     content: about_seohyeon.md
     first_item: true
-    profile_group: alumni
+    profile_group: members
   - align: left
     content: about_haklim.md
     first_item: false
-    profile_group: alumni
+    profile_group: members
 ---
 
