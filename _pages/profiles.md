@@ -16,13 +16,11 @@ profiles:
     first_item: true
     profile_group: professor
   - align: left
-    image: seohyeon-oh.png
     content: about_seohyeon.md
     image_circular: true # crops the image to make it circular
     first_item: true
     profile_group: undergraduate intern
   - align: left
-    image: haklim-lee.png
     content: about_haklim.md
     image_circular: true # crops the image to make it circular
     first_item: false
