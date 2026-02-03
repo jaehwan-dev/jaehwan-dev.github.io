@@ -17,12 +17,10 @@ profiles:
     profile_group: professor
   - align: left
     content: about_seohyeon.md
-    image_circular: true # crops the image to make it circular
     first_item: true
     profile_group: undergraduate intern
   - align: left
     content: about_haklim.md
-    image_circular: true # crops the image to make it circular
     first_item: false
     profile_group: undergraduate intern
 ---
