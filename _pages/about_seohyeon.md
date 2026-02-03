@@ -5,7 +5,7 @@
 
 <p class="font-weight-bold mb-1">Education</p>
 <ul class="list-unstyled">
-  <li><span class="font-weight-bolder">- B.S.</span> in Business, <a href="https://plus.cnu.ac.kr/html/en/">CNU</a> <small>(current)</small></li>
+  <li><span class="font-weight-bolder">- B.S.</span> in Business, <a href="https://plus.cnu.ac.kr/html/en/">CNU</a> <small>(2022-2026)</small></li>
 </ul>
 
 <p class="font-weight-bold mb-1">Research Interest</p>
