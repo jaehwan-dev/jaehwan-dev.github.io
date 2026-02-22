@@ -12,7 +12,7 @@ projects:
   - date: 2025.9 - 2026.1
     funding: 충남대학교-RISE 프로젝트랩(LAB)
     desc: 공학규모 파이로 일관공정 시험시설 내 아르곤 농도 예측 모델 개발(with 한국원자력연구원)
-    category: ongoing
+    category: finished
     extlink: false
   - date: 2025.5 - 2025.8
     funding: 충남대학교 정보화본부 - CNU 생성형 인공지능 챌린지
