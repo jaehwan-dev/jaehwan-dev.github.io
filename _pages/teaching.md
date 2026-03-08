@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
+<h4>Spring 2026</h4>
+<ul>
+  <li class="py-1"><strong>1182<span>-</span>2004</strong> | Management Information Systems <small>(undergraduate)</small></li>
+  <li class="py-1"><strong>2157<span>-</span>5048</strong> | Database Management <small>(graduate)</small></li>
+</ul>
+<hr class="border-1 my-4" />
+
 <h4>Fall 2025</h4>
 <ul>
   <li class="py-1"><strong>1182<span>-</span>3022</strong> | Management of Technology <small>(undergraduate)</small></li>
