@@ -24,6 +24,10 @@ profiles:
     first_item: false
     profile_group: members
   - align: left
+    content: about_narong.md
+    first_item: false
+    profile_group: members
+  - align: left
     content: about_seohyeon.md
     first_item: false
     profile_group: members
